@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "firebase-tools": "^10.6.0"
+    "bootstrap-icons": "^1.10.2",
+    "firebase-tools": "^10.6.0",
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^11.6.14"
   }
 }
