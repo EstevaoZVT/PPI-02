@@ -13,7 +13,6 @@ const firebaseConfig = {
   measurementId: "G-2GVVZXBZ00"
 };
 
-
 /*
 * Nas regras do Realtime Database, informe:
 * {

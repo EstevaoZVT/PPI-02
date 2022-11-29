@@ -2,6 +2,7 @@
 const baseURL = window.location.hostname.includes('127.0.0.1')
 ? 'http://127.0.0.1:5500'
 : 'https://fatecitu-pi.firebaseapp.com'
+/ 'https://estevaozvt.github.io/PPI-02/'
 
 /**
  * novoUsuario.
